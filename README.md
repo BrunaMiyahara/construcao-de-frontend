@@ -30,3 +30,4 @@ npm start
 5. Executar um script do Projeto Node
 ```shell
 npm run nome-do-script
+```
